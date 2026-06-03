@@ -2,13 +2,13 @@
 
 Turn your FoundryVTT Scenes into playable Prince of Persia style platformer levels!
 
-## Description
+## 📋 Description
 
 **Jump'n'Run** transforms the standard top-down Foundry VTT experience into a side-scrolling platformer. It introduces a physics engine, player controller, and level design tools allowing Game Masters to build challenging obstacle courses, puzzles, and action levels directly within Foundry.
 
 Whether you want a simple jumping puzzle or a full-blown Metroidvania adventure, this module provides the tools to make it happen.
 
-## Features
+## ✨ Features
 
 - **Side-Scrolling Physics**: Real-time gravity, jumping, wall-jumping, and collision detection.
 - **Latest Updates (Patch Notes)**:
@@ -32,13 +32,13 @@ Whether you want a simple jumping puzzle or a full-blown Metroidvania adventure,
   - **Monk's Active Tile Triggers (MATT)**: Utilize custom triggers and actions for advanced logic.
   - **Codebase Refactor**: Cleanup of legacy remnants and resolved several minor stability issues.
 
-## Installation
+## 🚀 Installation
 
 1.  Copy the module's manifest URL: `https://github.com/GeanoFee/geanos-jump-n-run-editor/releases/latest/download/module.json`
 2.  In FoundryVTT, go to **Add-on Modules** -> **Install Module**.
 3.  Paste the URL and click **Install** or search for "Geano's Jump'n'Run Editor" via searchbar.
 
-## Usage
+## 🎮 Usage
 
 ### 1. Activating a Scene
 To turn a standard Scene into a Jump'n'Run level:
@@ -77,7 +77,7 @@ Players control their assigned Token:
 -   **Drop**: `S` or `Down Arrow` (pass through some platforms)
 -   **Wall Jump**: Press Jump while sliding down a wall.
 
-## Monk's Active Tile Triggers (MATT) Integration
+## 🎯 Monk's Active Tile Triggers (MATT) Integration
 
 This module adds custom Triggers and Actions to MATT, allowing for complex level scripting.
 
